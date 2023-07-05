@@ -4,6 +4,6 @@
 ## Email: nnleonovich@gmail.com
 ## GitHub: SpliveRys
 # Skills
-3ds Max 
-КОМПАС-3D
-addobe Photodhope
+#### 3ds Max 
+#### КОМПАС-3D
+#### addobe Photodhope
